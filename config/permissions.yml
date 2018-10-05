@@ -1,0 +1,10 @@
+development:
+  user_type:
+    code: 3
+    name: 'Admin'
+  user_type:
+    code: 99
+    name: 'Public User'
+  user_type:
+    code: 9
+    name: 'Manager'
